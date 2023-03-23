@@ -1,4 +1,4 @@
-# 👋 Elias (IT Specialist & Computer Science Graduate) 
+# 👋 Elias (IT Specialist & Software Engineer) 
 
 Hello World! Welcome to my GitHub page. 🚀 As an experienced IT Specialist and Computer Science graduate, I've delivered massive performance results by slaying complex problems with innovative strategies. 💪
 
