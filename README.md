@@ -27,6 +27,7 @@ I'm a highly motivated individual who loves learning new technologies, innovatin
 ### LIBRARIES/FRAMEWORKS
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-blueviolet?logo=.net&logoColor=white&style=flat)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-blue?logo=.net&logoColor=white&style=flat)
+![Laravel](https://img.shields.io/badge/-Laravel-red?logo=laravel&logoColor=white&style=flat)
 ![nodeJs](https://img.shields.io/badge/-Node.js-success?logo=node.js&logoColor=white&style=flat)
 ![Express.js](https://img.shields.io/badge/-Express.js-orange?logo=express&logoColor=white&style=flat)
 ![jQuery](https://img.shields.io/badge/-jQuery-blue?logo=jquery&logoColor=white&style=flat)
