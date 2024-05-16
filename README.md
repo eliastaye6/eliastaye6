@@ -18,6 +18,7 @@ I'm a highly motivated individual who loves learning new technologies, innovatin
 ### PROGRAMMING LANGUAGES
 ![C#](https://img.shields.io/badge/-C%23-blue?logo=c-sharp&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white&style=flat)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
 ![Javascript](https://img.shields.io/badge/-Javascript-yellow?logo=javascript&logoColor=white&style=flat)
 ![SQL](https://img.shields.io/badge/-SQL-lightgrey?logo=Microsoft-SQL-Server&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-green?logo=python&logoColor=white&style=flat)
